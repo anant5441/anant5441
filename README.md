@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm @anant5441</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <h3 align="center">A passionate frontend developer And Coder</h3>
 
 - 🌱 I’m currently learning **DSA And React**
