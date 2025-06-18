@@ -31,8 +31,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://img.icons8.com/color/48/oracle-logo.png" alt="PL/SQL" width="40" height="40"/></a>
   <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/bird.png" alt="LangChain (Bird)" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139588103?s=200&v=4" alt="LangChain" width="40" height="40"/>
 </a>
+
 
 </p>
 </p>
