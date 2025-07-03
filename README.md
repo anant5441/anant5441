@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate developer And Coder</h3>
 
-- 🌱 I’m currently learning **DSA And React**
+- 🌱 I’m currently learning **DSA and React**
+- 🤖 I'm also exploring **AI/ML, LangChain, and Large Language Models (LLMs)**
+- 🧠 I enjoy building intelligent apps using **Python, APIs, and AI frameworks**
 
 - 📫 How to reach me **anantji2332@gmail.com**
 
@@ -30,9 +32,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://img.icons8.com/color/48/oracle-logo.png" alt="PL/SQL" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/139588103?s=200&v=4" alt="LangChain" width="40" height="40"/>
-</a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="Langchain" width="40" height="40" />
+  </a>
 
 
 </p>
