@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer And Coder</h3>
 
 - 🌱 I’m currently learning **DSA and React**
-- 🤖 I'm also exploring **AI/ML, LangChain, and Large Language Models (LLMs)**
+- 🤖 I'm also exploring **AI/ML, LangGraph, and Agentic AI**
 - 🧠 I enjoy building intelligent apps using **Python, APIs, and AI frameworks**
 
 - 📫 How to reach me **anantji2332@gmail.com**
