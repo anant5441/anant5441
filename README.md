@@ -49,18 +49,22 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant5441&layout=compact&theme=highcontrast" alt="Top Langs" />
-</p>
+<table>
+  <tr>
+    <td>
+      <p>
+        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anant5441&theme=transparent&hide_border=true" />
+      </p>
+      <p>
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=anant5441&show_icons=true&theme=transparent&hide_border=true&locale=en" />
+      </p>
+    </td>
+    <td>
+      <p>
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant5441&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anant5441&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=anant5441&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anant5441&label=Profile%20views&color=blue&style=flat" alt="anant5441" />
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anant5441&label=Profile%20views&color=0e75b6&style=flat" alt="anant5441" /> </p>
