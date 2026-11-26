@@ -20,10 +20,6 @@
 
 ## 👨‍💻 About me
 
-<p align="center">
-  <img width="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer coding" />
-</p>
-
 > **I turn ideas into products people can actually use: fast, real-time, and good-looking.**
 
 - ⚡ **Idea to launch, solo.** I design it, build it, and ship it.
