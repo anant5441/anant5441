@@ -20,7 +20,9 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="360" height="206" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer coding" />
+<p align="center">
+  <img width="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer coding" />
+</p>
 
 > **I turn ideas into products people can actually use: fast, real-time, and good-looking.**
 
@@ -30,8 +32,6 @@
 - 🌐 **Real-time is my playground.** WebSockets, live sync, zero lag.
 - 🧠 **Hard problems welcome.** DSA keeps the problem-solving sharp.
 - 🤝 **Got something ambitious?** I'm in. **anantji2332@gmail.com**
-
-<br clear="right" />
 
 <table>
   <tr>
